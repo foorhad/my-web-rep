@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    background-color: limegreen;
+}
+
+.heading {
+    border-radius: 10px;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 10px;
+}
